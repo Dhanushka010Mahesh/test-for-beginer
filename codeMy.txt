@@ -1,5 +1,4 @@
-helloWorld
-i'am dhanushka mahesh
-oky
+Mini Course serise
 
 Name : Dhanushka mahesh jayarathna
+Age    : 21 years old
