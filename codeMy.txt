@@ -2,4 +2,4 @@ helloWorld
 i'am dhanushka mahesh
 oky
 
-name : dhanushka
+name : dhanushka Mahesh
